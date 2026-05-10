@@ -1,6 +1,6 @@
 /*
  * ═══════════════════════════════════════════════════════════
- *  K-Pedal — ESP32 Multi-Effect Firmware
+ *  GuitarPedal — ESP32 Multi-Effect Firmware
  *
  *  Features:
  *   - 4-Effect Chain (run 4 effects simultaneously)

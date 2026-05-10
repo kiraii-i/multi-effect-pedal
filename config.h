@@ -4,8 +4,8 @@
 // ─────────────────────────────────────────────
 //  WiFi
 // ─────────────────────────────────────────────
-#define WIFI_SSID   "K-Pedal"
-#define WIFI_PASS   "lolo2008"
+#define WIFI_SSID   "GuitarPedal"
+#define WIFI_PASS   "guitar123"
 
 // ─────────────────────────────────────────────
 //  Pins

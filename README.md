@@ -119,27 +119,6 @@ Control Flow:
 
 ------------------------------------------------------------------------
 
-## Goals
-
--   Real-time embedded guitar processing\
--   Modular DSP effect architecture\
--   Performance-ready pedal system\
--   Expandable open-source platform\
--   Low-latency audio design on ESP32
-
-------------------------------------------------------------------------
-
-## Future Improvements
-
--   Stereo audio processing\
--   MIDI input/output support\
--   Touchscreen / encoder UI\
--   Advanced DSP algorithms\
--   Cloud preset sync\
--   Improved web control panel
-
-------------------------------------------------------------------------
-
 ## License
 
 kiraii.

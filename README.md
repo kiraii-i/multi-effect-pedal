@@ -140,13 +140,8 @@ Control Flow:
 
 ------------------------------------------------------------------------
 
-## License
+**License**
 
 kiraii.
 
 ------------------------------------------------------------------------
-
-## 🚀 Status
-
-⚡ Active development\
-🎸 Hardware testing in progress

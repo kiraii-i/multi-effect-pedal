@@ -32,7 +32,7 @@ WiFi control, and performance tools like tap tempo and auto-tune.
 
 ------------------------------------------------------------------------
 
-## 🧠 Hardware
+## Hardware
 
 ### Core Board
 

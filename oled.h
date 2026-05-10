@@ -37,7 +37,7 @@ void oledSplash() {
   display.println("ESP32  Multi-FX");
   display.setCursor(10, 38);
   display.setTextSize(1);
-  display.println("WiFi: K-Pedal");
+  display.println("WiFi: GuitarPedal");
   display.setCursor(10, 50);
   display.println("IP:  192.168.4.1");
   display.display();
